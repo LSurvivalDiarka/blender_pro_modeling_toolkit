@@ -182,12 +182,4 @@ La idea es poder bloquear formas rápido, modelar piezas hard surface, preparar 
 Made by Diarka Studio  
 Created by Saúl
 
-## Licencia
 
-El archivo `blender_manifest.toml` declara:
-
-```text
-GPL-3.0-or-later
-```
-
-No se ha encontrado un archivo `LICENSE` independiente dentro de esta carpeta. Conviene añadirlo antes de publicar si se quiere dejar la licencia completamente clara en GitHub.
